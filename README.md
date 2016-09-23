@@ -1,7 +1,16 @@
-IRE mini-project
+WikiSearch - IRE mini-project
 ================
 
 > Sorry, not really good README. :'(
+
+> Also, please note that project is dead! It was a course project and I never touched it again.
+
+What is it?
+-----------
+This is small hand-made search engine for Wikipedia.
+Developed as a part of course project for course Information Retrieval and Extraction in Spring 2016 at IIIT Hyderabad.
+
+Given a Wikipedia xml dump, it is supposed to index it, and then use the index to perform queries later. This will work better for English, for other languages some updates are required in tokenizer and stemmer.
 
 How to Use
 ----------
