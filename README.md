@@ -1,9 +1,7 @@
 WikiSearch - IRE mini-project
 ================
 
-> Sorry, not really good README. :'(
-
-> Also, please note that project is dead! It was a course project and I never touched it again.
+> Please note that project is dead! It was a course project and I never touched it again.
 
 What is it?
 -----------
